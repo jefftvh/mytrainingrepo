@@ -1,0 +1,45 @@
+{
+  "ProjectName": "My training app",
+  "ProjectGuid": "4cbabfcc-f700-412c-aa34-d84b4f8915fc",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.Mytrainingapp",
+  "DisplayName": "My training app",
+  "Author": "",
+  "Description": "My training app",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{58c4e295-7a3b-4b88-be7e-fb096a1d416c}",
+  "WP8ProductID": "{ebf45f3b-17fd-476e-a087-6ca8fae8fba1}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.Mytrainingapp",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
